@@ -85,6 +85,65 @@ Students may bring printed or handwritten notes to assist with all written assig
 - **Final Interpretive Essay**: Finals week (Dec 8-12)
 - **One-on-One Meetings**: 10/21 (first), 12/2 (second)
 
+```
+Grade Progress Through Semester
+
+100% ████████████████████████████████████████████████████████████ Final Essay (Finals Week) +20
+ 80% ████████████████████████████████████████████████ Primary Doc Final (Week 14) +20
+ 70% ██████████████████████████████████████████ Essay 2 (Week 14) +10
+ 60% ████████████████████████████████████ (after Lab 6)
+ 55% ███████████████████████████████████ Lab 6 (Week 12) +5
+ 50% ██████████████████████████████ Primary Doc 1st (Week 11) +5
+ 45% ███████████████████████████ Lab 5 (Week 11) +5  
+ 40% ████████████████████████ Historiography (Week 9) +10 ← MIDTERM
+ 30% ██████████████████ Lab 4 (Week 8) +5
+ 25% ███████████████ Lab 3 (Week 7) +5
+ 20% ████████████ Essay 1 (Week 6) +10 ← FIRST MAJOR GRADE
+ 10% ██████ Lab 2 (Week 5) +5
+  5% ███ Lab 1 (Week 3) +5
+  0% ─────────────────────────────────────────────────────────────
+```
+
+```
+Assignment Values by Week (0-100% scale) - Cumulative Progress
+
+     │                                                                                         ██
+100% ┤                                                                                         ██
+     │                                                                                         ██
+ 90% ┤                                                                                         ██
+     │                                                                               ██
+ 80% ┤                                                                               ██
+     │                                                                               ██
+ 70% ┤                                                                               ██
+     │                                                                             ██
+ 60% ┤                                                                             ██
+     │                                                                 ██
+ 50% ┤                                                             ██
+     │                                                           ██
+ 40% ┤                                               ██
+     │                                               ██
+ 30% ┤                                         ██
+     │                                   ██
+ 20% ┤                             ██
+     │                             ██
+ 10% ┤                       ██
+     │            ██
+  0% └─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴──────
+     Wk1   Wk2   Wk3   Wk4   Wk5   Wk6   Wk7   Wk8   Wk9   Wk10  Wk11  Wk12  Wk13  Wk14  Wk15  Finals
+     
+     Cumulative Grade Progress:
+     Wk3:  Lab 1 → 5% total
+     Wk5:  Lab 2 → 10% total  
+     Wk6:  Essay 1 → 20% total
+     Wk7:  Lab 3 → 25% total
+     Wk8:  Lab 4 → 30% total
+     Wk9:  Historiography → 40% total
+     Wk11: Lab 5 + Primary Doc 1st → 50% total
+     Wk12: Lab 6 → 55% total
+     Wk14: Essay 2 + Primary Doc Final → 80% total
+     Finals: Final Essay → 100% total
+```
+
 ## Academic Integrity
 
 This course maintains strict academic honesty standards:
