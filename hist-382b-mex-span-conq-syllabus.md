@@ -209,7 +209,7 @@ You are also allowed to bring print copies (photocopies or published print mater
 
 ## ACADEMIC HONESTY
 
-Don't cheat, plagiarize, use AI, have somebody else do your work for you, or turn in work from another course. If you are caught, you will automatically fail the course, in addition to any university-mandated penalties for plagiarism and academic dishonesty. Get familiar with [Binghamton's Student Academic Honesty Code](https://www.binghamton.edu/bulletin/2023-24/policiesprocedures/index.html#p002), which are the rules that we follow. If you are confused about what might constitute academic dishonesty or plagiarism, please see your instructor.
+Don't cheat, plagiarize, use AI to compose, have somebody else do your work for you, or turn in work from another course. If you are caught, you will automatically fail the course, in addition to any university-mandated penalties for plagiarism and academic dishonesty. Get familiar with [Binghamton's Student Academic Honesty Code](https://www.binghamton.edu/bulletin/2023-24/policiesprocedures/index.html#p002), which are the rules that we follow. If you are confused about what might constitute academic dishonesty or plagiarism, please see your instructor.
 
 ### Further Notes on Academic Honesty
 
