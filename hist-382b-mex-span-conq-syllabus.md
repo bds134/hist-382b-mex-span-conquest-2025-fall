@@ -308,7 +308,7 @@ All written composition (in-class essays, historiography paper, primary document
 
 Students will have access to the course GitHub repository throughout the semester, which contains detailed assignment descriptions and PDF versions of all course readings. This repository serves as a comprehensive resource for assignment preparation and research.
 
-**Course GitHub Repository**: [https://github.com/bds134/hist-382b-mex-span-conquest](https://github.com/bds134/hist-382b-mex-span-conquest)
+**Course GitHub Repository**: [https://github.com/bds134/hist-382b-mex-span-conquest-2025-fall](https://github.com/bds134/hist-382b-mex-span-conquest-2025-fall)
 
 ### Notes Policy for Written Assignments
 
