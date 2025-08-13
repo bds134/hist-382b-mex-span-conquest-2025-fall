@@ -168,11 +168,11 @@ You are also allowed to bring print copies (photocopies or published print mater
 | 3 | Aug 26 | Tue | The 'altepetl'; Mesoamerican warfare | Reading 2 due | |
 | 4 | Aug 28 | Thu | The Aztec 'empire' and its enemies | Reading 3 due | |
 | - | Sep 2 | Tue | **NO CLASS** | | Monday classes meet (Labor Day) |
-| 5 | Sep 4 | Thu | Spanish expansion and motives | Reading 4 due | **Respondus Practice Session** |
-| 6 | Sep 9 | Tue | First contact and conquest narratives | Reading 5 due | |
+| 5 | Sep 4 | Thu | Finding & Evaluating Secondary Sources | Reading 4 due; Guest: Mary Tuttle - Libraries | **Respondus Practice Session** |
+| 6 | Sep 9 | Tue | Spanish expansion and motives; First contact and conquest narratives | Reading 5 due | |
 | 7 | Sep 11 | Thu | **Lab 1** | | Lab 1 |
-| 8 | Sep 16 | Tue | Indigenous allies and resistance strategies | Reading 6 due | |
-| 9 | Sep 18 | Thu | The Conquest of Mexico | Reading 7 due | |
+| 8 | Sep 16 | Tue | Finding & Evaluating Primary Sources | Reading 6 due; Guest: Mary Tuttle - Libraries | |
+| 9 | Sep 18 | Thu | Indigenous allies and resistance strategies; The Conquest of Mexico | Reading 7 due | |
 | - | Sep 23 | Tue | **NO CLASS** | | Rosh Hashanah |
 | 10 | Sep 25 | Thu | The Black Legend and conquest mythology | Reading 8 due | |
 | 11 | Sep 30 | Tue | **Lab 2** | | Lab 2 |
