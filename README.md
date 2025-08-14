@@ -31,13 +31,12 @@ We examine how traditional conquest narratives have been challenged by new sourc
 
 ## Repository Contents
 
-This repository serves as the central resource hub for the course and contains:
+This repository serves as a resource hub for lab-related materials only. For required readings, students must access resources from the Library's webpage. Direct links to GitHub resources will be provided only for labs that rely on them.
 
 ### 📚 Course Materials
 
 - **Syllabus**: Complete course syllabus with policies, schedule, and requirements
 - **Assignment Descriptions**: Detailed instructions for all course assignments
-- **Reading Materials**: PDF versions of all course readings and primary sources
 - **Lab Instructions**: Guidelines and materials for in-class laboratory exercises
 
 ### 📋 Assignment Categories
@@ -54,16 +53,13 @@ This repository serves as the central resource hub for the course and contains:
 
 - **Respondus LockDown Browser**: Required for all written assignments
 - **Brightspace LMS**: Primary course management system
-- **GitHub Repository**: All course readings available in /readings folder
+- **GitHub Repository**: Only lab-related resources will be available here; required readings must be accessed via the Library webpage
 
 ## Repository Access During Assignments
 
-**Important**: This GitHub repository is the only external website accessible through Respondus LockDown Browser during labs and written assignments. Students can access:
+**Important**: This GitHub repository is only accessible for lab resources during assignments that require them. For required readings, students must use the Library's webpage. For essays and term paper assignments, students should ensure their research notes are sufficient to write the essays or bring print copies of the works they want to use (these will be left with the instructor at the end of the assignment and returned ASAP).
 
-- Assignment instructions and rubrics
-- Course readings in PDF format
-- Primary source documents
-- Reference materials and citations
+Students may wish to purchase Stuart Schwartz's Victors and Vanquished: Spanish and Nahua Views of the Conquest of Mexico, which is used extensively throughout the course and is only available in the library as a physical print resource.
 
 ## Notes Policy
 

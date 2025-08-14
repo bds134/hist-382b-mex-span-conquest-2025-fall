@@ -39,7 +39,11 @@ The meetings provide an opportunity to discuss your research direction, address 
 
 ### Required Readings (Not graded)
 
-Readings are required and must be completed by class time on the day shown in the course schedule. All readings are available in PDF format in the /readings folder of the course GitHub repository. While readings are not graded, they are essential for success in labs, essays, and class discussions.
+Readings are required and must be completed by class time on the day shown in the course schedule. For required readings, students must access resources from the Library's webpage. GitHub will only be used for resources connected to labs; when labs rely on resources, a direct link to those GitHub resources will be provided.
+
+For essays and term paper assignments, students should either ensure that their research notes are sufficient to write the essays or should bring print copies of the works they want to use. These will be left with the instructor at the end of the assignment and returned ASAP.
+
+Students might wish to purchase Stuart Schwartz's Victors and Vanquished: Spanish and Nahua Views of the Conquest of Mexico, which is used extensively throughout the course and is only available in the library as a physical print resource.
 
 **Reading Schedule:**
 
