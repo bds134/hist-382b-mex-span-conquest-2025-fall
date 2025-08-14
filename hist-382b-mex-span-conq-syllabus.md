@@ -39,7 +39,7 @@ The meetings provide an opportunity to discuss your research direction, address 
 
 ### Required Readings (Not graded)
 
-Readings are required and must be completed by class time on the day shown in the course schedule. For required readings, students must access resources from the Library's webpage. GitHub will only be used for resources connected to labs; when labs rely on resources, a direct link to those GitHub resources will be provided.
+Readings are required and must be completed by class time on the day shown in the course schedule. For required readings, students must access resources from the Library's webpage or, when the resource is available only in print, on the course Brightspace page. GitHub will only be used for resources connected to labs; when labs rely on resources, a direct link to those GitHub resources will be provided.
 
 For essays and term paper assignments, students should either ensure that their research notes are sufficient to write the essays or should bring print copies of the works they want to use. These will be left with the instructor at the end of the assignment and returned ASAP.
 
@@ -83,7 +83,7 @@ Students might wish to purchase Stuart Schwartz's Victors and Vanquished: Spanis
   - Livi-Bacci, Massimo. "The Depopulation of Hispanic America after the Conquest." *Population and Development Review* 32, no. 2 (2006): 199-232.
   - "Florentine Codex, Book 12, Chapter 29: Of the sickness that befell the Mexicans." Digital Florentine Codex. https://florentinecodex.getty.edu/book/12/folio/53r.
 - Reading 13 due: November 4
-  - Lockhart, James. "Contact: Estates and Indian Towns." In *The Nahuas After the Conquest: A Social and Cultural History of the Indians of Central Mexico, Sixteenth Through Eighteenth Centuries*, 411-454. Stanford: Stanford University Press, 1992.
+  - Lockhart, James. "Land and Living." In *The Nahuas After the Conquest: A Social and Cultural History of the Indians of Central Mexico, Sixteenth Through Eighteenth Centuries*, 141-202. Stanford: Stanford University Press, 1992.
   - *Actas del Cabildo de Tlaxcala, 1545-1627*, edited and translated by James Lockhart, Frances Berdan, and Arthur J.O. Anderson. Salt Lake City: University of Utah Press, 1986. [Selected passages on cochineal]
 - Reading 14 due: November 6
   - Mundy, Barbara E. "The Mapping of New Spain: Indigenous Cartography and the Maps of the Relaciones Geográficas." Chicago: University of Chicago Press, 1996. Chapters 4-5.
