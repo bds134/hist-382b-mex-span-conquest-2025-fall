@@ -251,6 +251,8 @@ If you have a disability that may require an accommodation for taking this cours
 
 **Extended Time Accommodations**: Students with approved extended time accommodations will complete all written assignments (labs, in-class interpretive essays, historiography paper, primary document analysis, and final interpretive essay) at the University Testing Center. These students should coordinate with both the instructor and the Testing Center to schedule their writing sessions. The same Respondus LockDown Browser requirements apply for all testing center sessions.
 
+Students with extra-time or other types of approved accommodations may be required to complete their written in-class assignments (interpretive essays, historiography paper, primary document analysis, and final essay) at the University Testing Center rather than in the regular classroom.
+
 ## LEARNING OUTCOMES
 
 The History Department has determined that students in history classes will:
