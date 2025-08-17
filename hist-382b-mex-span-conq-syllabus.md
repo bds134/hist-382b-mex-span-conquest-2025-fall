@@ -101,11 +101,11 @@ You will complete 6 in-class labs with the lowest score dropped (5 of 6 count to
 
 **Lab Schedule:**
 
-- Lab 1: September 11 -- Cortés's Letters
-- Lab 2: September 30 -- The Florentine Codex
+- Lab 1: September 11 -- Secondary Research
+- Lab 2: September 30 -- The Conquistadores
 - Lab 3: October 16 -- The Return of Quetzalcoatl
-- Lab 4: October 23 -- Bartolomé de las Casas
-- Lab 5: November 11 -- Historiography
+- Lab 4: October 23 -- Historiography
+- Lab 5: November 6 -- Religious Conquest
 - Lab 6: November 20 -- The Problem Statement, Thesis and Argument
 
 ### In-Class Interpretive Essays (20% total)
@@ -174,28 +174,28 @@ You are also allowed to bring print copies (photocopies or published print mater
 | - | Sep 2 | Tue | **NO CLASS** | | Monday classes meet (Labor Day) |
 | 5 | Sep 4 | Thu | Spanish expansion and motives; First contact and conquest narratives | Reading 4 due | **Respondus Practice Session** |
 | 6 | Sep 9 | Tue | Meet in Library Classroom LN 1305 for Finding & Evaluating Secondary Sources & Library Tour | Reading 5 due | Guest: Mary Tuttle - Libraries |
-| 7 | Sep 11 | Thu | **Lab 1** | | Lab 1 |
+| 7 | Sep 11 | Thu | **Lab 1** | | Secondary Research |
 | 8 | Sep 16 | Tue | Indigenous allies and resistance strategies; The Conquest of Mexico | Reading 6 due | |
 | 9 | Sep 18 | Thu | Finding & Evaluating Primary Sources | Reading 7 due; Guest: Mary Tuttle - Libraries | |
 | - | Sep 23 | Tue | **NO CLASS** | | Rosh Hashanah |
 | 10 | Sep 25 | Thu | The Black Legend and conquest mythology | Reading 8 due | |
-| 11 | Sep 30 | Tue | **Lab 2** | | Lab 2 |
+| 11 | Sep 30 | Tue | **Lab 2** | | The Conquistadores |
 | - | Oct 2 | Thu | **NO CLASS** | | Yom Kippur |
 | 12 | Oct 7 | Tue | **In-Class Essay 1** | | First interpretive essay |
 | 13 | Oct 9 | Thu | Teaching Christianity | Reading 9 due | |
 | 14 | Oct 14 | Tue | The Florentine Codex | Reading 10 due | |
-| 15 | Oct 16 | Thu | **Lab 3** | | Lab 3 |
+| 15 | Oct 16 | Thu | **Lab 3** | | The Return of Quetzalcoatl |
 | - | Oct 20 - 24 | Mon - Fri | | | First one-on-one meetings (all week) |
 | 16 | Oct 21 | Tue | Inquisition | Reading 11 due | |
-| 17 | Oct 23 | Thu | **Lab 4** | | Lab 4 |
+| 17 | Oct 23 | Thu | **Lab 4** | | Historiography |
 | 18 | Oct 28 | Tue | | | **In-Class Historiography Paper** |
 | 19 | Oct 30 | Thu | Demography & Disease | Reading 12 due | |
 | 20 | Nov 4 | Tue | Land | Reading 13 due | |
-| 21 | Nov 6 | Thu | Relaciones geográficas | Reading 14 due | |
-| 22 | Nov 11 | Tue | **Lab 5** | | Lab 5 |
+| 21 | Nov 6 | Thu | **Lab 5** | | Religious Conquest |
+| 22 | Nov 11 | Tue | Relaciones geográficas | Reading 14 due | |
 | 23 | Nov 13 | Thu | | | **In-Class Primary Document Analysis First Submission** |
 | 24 | Nov 18 | Tue | Women and gender | Reading 15 due | |
-| 25 | Nov 20 | Thu | **Lab 6** |  | Lab 6 |
+| 25 | Nov 20 | Thu | **Lab 6** |  | The Problem Statement, Thesis and Argument |
 | 26 | Nov 25 | Tue | Race and empire | Reading 16 due | |
 | - | Nov 27 | Thu | **NO CLASS** | | Thanksgiving break |
 | - | Dec 1 - 5 | Second one-on-one meetings (all week) | | | |
