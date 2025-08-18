@@ -18,7 +18,7 @@ This course is a 4-credit course, which means that in addition to the scheduled 
 
 | Assignment Type | Quantity | Individual Weight | Total Weight | Due Dates |
 |---|---|---|---|---|
-| In-class labs (drop lowest) | 5 of 6 | 5% each | 25% | 9/11, 9/30, 10/16, 10/23, 11/11, 11/20 |
+| In-class labs (drop lowest) | 5 of 6 | 5% each | 25% | 9/11, 9/30, 10/16, 10/23, 11/6, 11/20 |
 | In-class interpretive essays | 2 | 10% each | 20% | 10/7, 12/2 |
 | Historiography paper (related to term paper) | 1 | 10% | 10% | 10/28 |
 | Primary document analysis - first submission | 1 | 5% | 5% | 11/13 |
@@ -249,9 +249,7 @@ The Writing Center provides services to help you improve your writing. The Cente
 
 If you have a disability that may require an accommodation for taking this course, please contact Services for Students with Disabilities (607.777.2686). Students who need accommodation should present an SSD authorization letter and contact me to discuss their specific needs. All discussions will remain confidential. Accommodations cannot be made retroactively.
 
-**Extended Time Accommodations**: Students with approved extended time accommodations will complete all written assignments (labs, in-class interpretive essays, historiography paper, primary document analysis, and final interpretive essay) at the University Testing Center. These students should coordinate with both the instructor and the Testing Center to schedule their writing sessions. The same Respondus LockDown Browser requirements apply for all testing center sessions.
-
-Students with extra-time or other types of approved accommodations may be required to complete their written in-class assignments (interpretive essays, historiography paper, primary document analysis, and final essay) at the University Testing Center rather than in the regular classroom.
+**Extended Time Accommodations**: Students with extra-time or other types of approved accommodations may be required to complete their written in-class assignments (interpretive essays, historiography paper, primary document analysis, and final essay) at the University Testing Center rather than in the regular classroom. These students should coordinate with both the instructor and the Testing Center to schedule their writing sessions. The same Respondus LockDown Browser requirements apply for all testing center sessions.
 
 ## LEARNING OUTCOMES
 
