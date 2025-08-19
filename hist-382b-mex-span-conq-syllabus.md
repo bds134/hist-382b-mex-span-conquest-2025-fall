@@ -32,6 +32,7 @@ This course is a 4-credit course, which means that in addition to the scheduled 
 You will attend two 20-minute one-on-one meetings with the instructor to discuss your term paper progress. These meetings are required but not graded. The meetings will be scheduled outside of class time during regular office hours or at another time during the week that fits the schedules of both students and the instructor. Meetings can be held in-person or via Zoom based on mutual preference and availability.
 
 **Meeting Schedule:**
+
 - First one-on-one meeting: October 21
 - Second one-on-one meeting: December 2
 
@@ -131,7 +132,6 @@ You may bring printed or handwritten notes to assist with composition. Notes mus
 
 You are also allowed to bring print copies (photocopies or published print materials) of any primary and secondary sources used in your research. These materials will be turned in at the end of the assignment and returned to the student ASAP.
 
-
 ### Primary Document Analysis (25% total: 5% first submission + 20% final submission)
 
 In 90 minutes of supervised class time, you will write an analysis of a primary document from the Spanish Conquest period. This assignment calls for sustained analysis of your chosen primary source, demonstrating how this document can illuminate broader historical questions about the conquest.
@@ -160,6 +160,8 @@ The final essay represents the culmination of your term paper research and shoul
 You may bring printed or handwritten notes to assist with composition. Notes must be on paper and, if multiple sheets are used, must be stapled together or compiled in a notebook or binder. Only point-form notes, outlines, citations, and similar textual items are permitted; notes written in prose are NOT allowed. All notes will be collected by the instructor at the completion of the assignment.
 
 You are also allowed to bring print copies (photocopies or published print materials) of any primary and secondary sources used in your research. These materials will be turned in at the end of the assignment and returned to the student ASAP.
+
+You are also allowed to bring print copies of your historiography paper and your Primary Source Analysis paper.
 
 ## SCHEDULE
 
@@ -303,6 +305,7 @@ Students will:
 All written composition (in-class essays, historiography paper, primary document analysis, and final interpretive essay) will be completed during class time or the scheduled final exam period. Research and planning for these assignments should be carried out outside of class time, but the actual writing will occur in a supervised classroom environment.
 
 **Submission Policy:**
+
 - All written assignments will be submitted using **Respondus LockDown Browser**, a secure browser application that prevents access to other websites, applications, or resources during the writing process. This ensures academic integrity and creates a fair testing environment for all students.
 - **Exception:** The revision of the Primary Document Analysis will be completed in Google Docs (with instructor feedback) and the final revised document will be uploaded to the appropriate Brightspace assignment module, not through Respondus LockDown Browser.
 
