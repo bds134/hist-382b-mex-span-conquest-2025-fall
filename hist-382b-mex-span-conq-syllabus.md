@@ -44,7 +44,7 @@ Readings are required and must be completed by class time on the day shown in th
 
 For essays and term paper assignments, students should either ensure that their research notes are sufficient to write the essays or should bring print copies of the works they want to use. These will be left with the instructor at the end of the assignment and returned ASAP.
 
-Students might wish to purchase Stuart Schwartz's Victors and Vanquished: Spanish and Nahua Views of the Conquest of Mexico, which is used extensively throughout the course and is only available in the library as a physical print resource.
+Students might wish to purchase Stuart Schwartz's *Victors and Vanquished: Spanish and Nahua Views of the Conquest of Mexico*, which is used extensively throughout the course and is only available in the library as a physical print resource.
 
 **Reading Schedule:**
 
@@ -311,9 +311,9 @@ All written composition (in-class essays, historiography paper, primary document
 
 **Grading Policy for Respondus LockDown Browser Assignments**: Assignments submitted through Respondus LockDown Browser will not be assessed based upon the eloquence, grammar, or spelling of written text, provided that the written text can be understood. Assessment will focus on content, historical analysis, argument development, and use of evidence.
 
-### Course Materials Access
+### Github
 
-Students will have access to the course GitHub repository throughout the semester, which contains detailed assignment descriptions and PDF versions of all course readings. This repository serves as a comprehensive resource for assignment preparation and research.
+Some labs will rely upon materials that will be accessible through the course github page.
 
 **Course GitHub Repository**: [https://github.com/bds134/hist-382b-mex-span-conquest-2025-fall](https://github.com/bds134/hist-382b-mex-span-conquest-2025-fall)
 
@@ -330,7 +330,7 @@ Respondus LockDown Browser is a free application that "locks down" your computer
 - Using copy/paste functions from external sources
 - Accessing notes or materials stored on your computer
 
-**Exception**: The course GitHub repository will be accessible through Respondus LockDown Browser during labs and written assignments, providing access to assignment descriptions and course readings as needed.
+**Exception**: The course GitHub repository will be accessible through Respondus LockDown Browser during labs and written assignments, providing access to any supplementary materials as needed.
 
 ### How to Access Respondus LockDown Browser
 
@@ -358,7 +358,7 @@ Students are responsible for ensuring their laptops are compatible with and can 
 
 ## TEXTBOOKS
 
-There is no textbook for this course. All readings are available in PDF format in the /readings folder of the course GitHub repository.
+There is no textbook for this course. All readings are available as either digital resources accessible through the Library's catalog or, when a digital resource is not available in the Library, within Brightspace.
 
 ## ATTENDANCE POLICY
 
